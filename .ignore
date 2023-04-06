@@ -1,0 +1,19 @@
+# Virtual environments
+venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Temporary files
+*.log
+*.swp
+
+# Distribution and build files
+dist/
+build/
+
+# Package metadata
+*.egg-info/
